@@ -139,7 +139,7 @@ p {
 }
 
 a {
-	color: #222222;
+	color: #fff;
 	text-decoration: none;
 	outline: none !important;
 }
@@ -455,7 +455,7 @@ a.readmore_bt {
 
 .logo {
 	float: left;
-	width: 75%;
+	width: 70%;
 }
 
 nav.main-menu {
@@ -1645,7 +1645,7 @@ input[type="radio"] .styled:checked+label::after {
 
 
 .buy {
-background: #ffc221;
+background: #006A31;
 padding: 7px 41px !important;
 margin-top: 18px;
 border-radius: 5px;
@@ -1657,7 +1657,7 @@ float: right;
 	color: #fff;
 }
 
-.head_top {background: #ffc221;
+.head_top {background: #006A31;
 margin-bottom: 35px;
 }
 ul.sociel_link {
@@ -1671,14 +1671,14 @@ float: left;
 .top-box p {
 	float: right;
 	padding-top: 10px;
-    color: #000;
+    color: #fff;
 }
 ul.sociel_link li {
 	display: inline-block;
 }
 
 ul.sociel_link li a {
-color: #000;
+color: #fff;
 width: 50px;
 height: 50px;
 float: left;
@@ -1714,7 +1714,7 @@ font-size: 18px;
 .banner-main .carousel-caption h1 {
 	color: #020000;
 	font-size: 85px;
-   line-height: 90px;
+    line-height: 90px;
 	text-transform: uppercase;
 }
 .banner-main .carousel-caption p {
@@ -1757,7 +1757,7 @@ margin-top: 20px;
 .title h2 {
 	font-size: 50px;
 	line-height: 55px;
-	color:#ffc221;
+	color:#006A31;
 	font-weight: 500;
 	text-transform: uppercase;
     margin-bottom: 27px;
@@ -1772,7 +1772,7 @@ width: 110px;
 height: 10px;
 display: block;
 margin: 0 auto;
-background: #000;
+background: #D2D700;
 }
 
 .title span{
@@ -1783,11 +1783,11 @@ margin-top: 20px;
 }
 .black {
 	font-weight: 500;
-	color:#070500;
+	color: #D2D700;
 }
 
 .choose_bg {
-	background: #f9be20;
+	background: #006A31;
 }
 
 
@@ -1821,7 +1821,7 @@ margin-top: 20px;
 margin: 0 auto;
 background: #fff;
 display: block;
-border: #f9be20 solid 2px;
+border: #006A31 solid 2px;
 text-align: center;
 padding: 10px 0px;
 color: #0a0401 !important;
@@ -1829,7 +1829,7 @@ font-size: 20px;
 margin-top: 40px;
 }
 .read-more:hover {
-	background: #f9be20;
+	background: #D2D700;
 	color: #0a0401;
 }
 
@@ -1850,7 +1850,7 @@ margin-top: 40px;
 }
 
 .service .service-box i img {
-	height: 88px;
+	height: 120px;
 }
 
 .service .service-box h3 {
@@ -2127,13 +2127,13 @@ ul.lik li a:hover {
 }
 
 .copyright {
-	background-color: #ffc221;
+	background-color: #006A31;
 	padding: 20px 0px;
 	margin-top: 70px;
 }
 
 .copyright p {
-	color: #023023;
+	color: #fff;
 	font-size: 18px;
 	line-height: 22px;
 	text-align: center;
@@ -2351,7 +2351,7 @@ text-align: center;
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
-	background: #ffc221;
+	background: #006A31;
 	color: #fff;
 }
 
